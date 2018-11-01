@@ -1,0 +1,53 @@
+{
+  "buildFiles": [
+    "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk",
+    "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "flac-afatFoss-armeabi-v7a": {
+      "artifactName": "flac",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libflac.a",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libflac.a"
+    },
+    "tmessages.29-afatFoss-armeabi-v7a": {
+      "artifactName": "tmessages.29",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libtmessages.29.so",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libtmessages.29.so"
+    },
+    "tgnet-afatFoss-armeabi-v7a": {
+      "artifactName": "tgnet",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libtgnet.a",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libtgnet.a"
+    },
+    "webp-afatFoss-armeabi-v7a": {
+      "artifactName": "webp",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libwebp.a",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libwebp.a"
+    },
+    "voip-afatFoss-armeabi-v7a": {
+      "artifactName": "voip",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libvoip.a",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libvoip.a"
+    },
+    "cpufeatures-afatFoss-armeabi-v7a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libcpufeatures.a",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libcpufeatures.a"
+    },
+    "sqlite-afatFoss-armeabi-v7a": {
+      "artifactName": "sqlite",
+      "buildCommand": "D:\\2\\ndk16\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj NDK_LIBS_OUT\u003dD:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 D:/2/WS/BoltiRemote/TMessagesProj/build/intermediates/ndkBuild/afat/foss/obj/local/armeabi-v7a/libsqlite.a",
+      "abi": "armeabi-v7a",
+      "output": "D:\\2\\WS\\BoltiRemote\\TMessagesProj\\build\\intermediates\\ndkBuild\\afat\\foss\\obj\\local\\armeabi-v7a\\libsqlite.a"
+    }
+  }
+}
