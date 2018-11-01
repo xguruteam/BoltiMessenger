@@ -38,7 +38,7 @@ struct impl_data_android_t{
 };
 
 #ifndef TGVOIP_PACKAGE_PATH
-#define TGVOIP_PACKAGE_PATH "org/telegram/messenger/voip"
+#define TGVOIP_PACKAGE_PATH "org/bolti/messenger/voip"
 #endif
 
 #ifndef TGVOIP_PEER_TAG_VARIABLE_NAME
@@ -49,11 +49,11 @@ struct impl_data_android_t{
 #define TGVOIP_FUNC(RETURN_TYPE, NAME, ...)          \
   extern "C" {                                       \
   JNIEXPORT RETURN_TYPE                              \
-      Java_org_telegram_messenger_voip_##NAME(       \
+      Java_org_bolti_messenger_voip_##NAME(       \
           JNIEnv *env, ##__VA_ARGS__);               \
   }                                                  \
   JNIEXPORT RETURN_TYPE                              \
-      Java_org_telegram_messenger_voip_##NAME(       \
+      Java_org_bolti_messenger_voip_##NAME(       \
           JNIEnv *env, ##__VA_ARGS__)
 #endif
 

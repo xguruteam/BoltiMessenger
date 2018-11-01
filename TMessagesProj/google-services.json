@@ -9,10 +9,10 @@
     {
       "client_info": {
         "mobilesdk_app_id": "1:123456789000:android:f1bf012572b04063",
-        "client_id": "android:org.telegram.messenger",
+        "client_id": "android:org.bolti.messenger",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "org.telegram.messenger",
+          "package_name": "org.bolti.messenger",
           "certificate_hash": []
         }
       },
@@ -21,7 +21,7 @@
           "client_id": "123456789000-hjugbg6ud799v4c49dim8ce2usclthar.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.telegram.messenger",
+            "package_name": "org.bolti.messenger",
             "certificate_hash": "4C20644DE36B8F89D25650C7D1FF9FBAE650FDF7"
           }
         },
@@ -65,10 +65,10 @@
     {
       "client_info": {
         "mobilesdk_app_id": "1:123456789000:android:f1bf012572b04063",
-        "client_id": "android:org.telegram.messenger.beta",
+        "client_id": "android:org.bolti.messenger.beta",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "org.telegram.messenger.beta",
+          "package_name": "org.bolti.messenger.beta",
           "certificate_hash": []
         }
       },
@@ -77,7 +77,7 @@
           "client_id": "123456789000-hjugbg6ud799v4c49dim8ce2usclthar.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.telegram.messenger.beta",
+            "package_name": "org.bolti.messenger.beta",
             "certificate_hash": "4C20644DE36B8F89D25650C7D1FF9FBAE650FDF7"
           }
         },
